@@ -11,7 +11,7 @@
         android:textSize="20sp"
         android:text="这是一个和测量相关的仪表盘控件，全部是通过Canvas和Paint绘制而成的"/>
 
-    <com.jacob.measure.MeasureDashboardView
+    <com.jacob.measureview.MeasureDashboardView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"/>

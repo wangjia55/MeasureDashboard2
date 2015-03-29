@@ -1,4 +1,4 @@
-package com.jacob.measure;
+package com.jacob.measureview;
 
 import android.content.Context;
 import android.graphics.Canvas;
